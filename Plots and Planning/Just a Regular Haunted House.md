@@ -1,0 +1,1 @@
+Reports of various ghouls lead the party to find what appears to be a cave full of demons (vaguely horror theme), but as they progress they discover it’s just a shitty haunted house. Thing is, one of the demons is real, and it’s been eating people.

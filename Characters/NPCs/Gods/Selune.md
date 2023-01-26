@@ -1,0 +1,1 @@
+DnD standard Goddess of the moon, magic, elves, and werewolves.

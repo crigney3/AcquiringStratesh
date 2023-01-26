@@ -1,0 +1,1 @@
+A decent-sized but underfunded temple to [[Selune]], nearby to the Storm's Edge.
