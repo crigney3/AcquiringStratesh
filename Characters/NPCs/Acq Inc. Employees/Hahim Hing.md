@@ -17,3 +17,6 @@ Secretarian - brings in and handles customers, marketing
 Also gets more power over the sticky notes that communicate with head office
 Gets a special “flip stone” sending stone that can contact individual people at head office and leave a message, just has to know the name
 Can also contact departments more directly, and make better requests
+
+
+![[HahimHing.png]]
