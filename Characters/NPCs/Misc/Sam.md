@@ -3,3 +3,5 @@ Sam is a grizzled man in his mid-30s who runs a solid amount of the organized cr
 Knows [[Laura Damond]]; used to drop by partially to check on her and partially to see if he could use the pirates.
 
 Has employed the party one time so far to investigate a monster in [The Pits].
+
+![[Sam.png]]

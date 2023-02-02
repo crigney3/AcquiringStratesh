@@ -104,3 +104,7 @@ Previous Session: [[Session 7 - Holy Dynamite, Batman]]
 
 
 **
+
+The goblin after being thrown off a cliff:
+
+![[UnnamedGoblin.png]]
