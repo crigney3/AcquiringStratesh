@@ -1,4 +1,4 @@
-Next Session: 
+Next Session: [[Session 8 - Rent's Due]]
 Previous Session: [[Session 6 - Mining Away (From the Eldritch Abomination)]]
 
 -   Combat continues!
@@ -39,4 +39,7 @@ Previous Session: [[Session 6 - Mining Away (From the Eldritch Abomination)]]
 
 The gods have spent lots of time talking to their party members, they'll be quite weakened as the party gets farther away from Bask.
 
-**
+Alyxia blew up the tunnel leading to Bask
+(This probably trapped some goblins)
+Nardo broke a torch sconce
+The party visited Sam in his hideout and saw him use some magic (he's a warlock)

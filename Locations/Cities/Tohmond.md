@@ -1,0 +1,1 @@
+Capital city of Andros, the main human country in Stratesh.
