@@ -4,116 +4,91 @@
     "type": "split",
     "children": [
       {
-        "id": "d66e193d08e9351c",
-        "type": "split",
+        "id": "f03780b6531c0fe0",
+        "type": "tabs",
         "children": [
           {
-            "id": "f145cf069d1f2d29",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "abd26d3fe4f0bc51",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/PCs/Alixya Sylvaranth (Daria).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0d73f39454531f6d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/PCs/Adelynn Trueless (Tori).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "7d1e85226dd0571a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Plots and Planning/DM Things to Remember.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ad9dce826647a204",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/PCs/Alton Astar (Justin).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "0ad153b75bd937d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/NPCs/Misc/Gorgin Pridecaller.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "6fe7110a8f633ba7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/NPCs/Misc/Gorgin Pridecaller.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "924f1c4b578324a3",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Characters/NPCs/Landlords/The Butcher.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "a56053c05a69ceac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 3 - Family Time.md",
+                "mode": "source",
+                "source": false
               }
-            ],
-            "currentTab": 2
+            }
           },
           {
-            "id": "b0516cb1b7c30690",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "8fa7fe94fa5cd452",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
+            "id": "5286e78e54f270c2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae2b0fbef0768253",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/The Rival Party/Thavidack Flynsball.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
+          },
+          {
+            "id": "f723e22b0e69282e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Session Notes/Session 9 - Sennec's House of Spooks and Scares.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2fe617e985f3b973",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Misc/Sennec Swiftheel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "464f0476b276d9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/Misc/Sennec Swiftheel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd432745c4df39e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/NPCs/The Rival Party/The Formidable Five.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -163,7 +138,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 208.5
   },
   "right": {
     "id": "9847065877d88a29",
@@ -179,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Plots and Planning/DM Things to Remember.md",
+                "file": "Characters/NPCs/The Rival Party/The Formidable Five.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Plots and Planning/DM Things to Remember.md",
+                "file": "Characters/NPCs/The Rival Party/The Formidable Five.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plots and Planning/DM Things to Remember.md"
+                "file": "Characters/NPCs/The Rival Party/The Formidable Five.md"
               }
             }
           }
@@ -240,17 +215,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b84b9211ac22256",
+  "active": "bd432745c4df39e6",
   "lastOpenFiles": [
-    "Characters/PCs/Adelynn Trueless (Tori).md",
-    "Characters/NPCs/Misc/Gorgin Pridecaller.md",
-    "Characters/PCs/Leonardo Camila (Jimmy).md",
-    "Characters/NPCs/Landlords/The Butcher.md",
-    "Characters/NPCs/Landlords/The Proprietor.md",
-    "Characters/NPCs/Friends and Relatives of PCs/Lysanthir Naelen.md",
-    "Characters/PCs/Alton Astar (Justin).md",
-    "Characters/PCs/Alixya Sylvaranth (Daria).md",
-    "Characters/NPCs/Friends and Relatives of PCs/Sancho Thornburrow.md",
-    "Characters/NPCs/Misc/John Ironstand (THE WAGESLAVER).md"
+    "Characters/NPCs/The Rival Party/Ashryn Genavere.md",
+    "Characters/NPCs/The Rival Party/Urag Skullcrusher.md",
+    "Characters/NPCs/The Rival Party/Karissa Blademantle.md",
+    "Characters/NPCs/The Rival Party/Thavidack Flynsball.md",
+    "Characters/NPCs/The Rival Party/Hilde Earthbraid.md",
+    "Session Notes/Session 9 - Sennec's House of Spooks and Scares.md",
+    "Session Notes/Session 8 - Rent's Due.md",
+    "Characters/NPCs/Misc/Brad.md",
+    "Characters/NPCs/Misc/Sennec Swiftheel.md",
+    "Sennec's House and Spooks and Scares.md"
   ]
 }

@@ -1,0 +1,3 @@
+Single living employee of [[Sennec's House of Spooks and Scares]]. Frat bro looking human with a baseball hat turned backwards. Has a contract with Blazitar, The Shadow of The Pit where he sacrifices the occasional haunted house goer in exchange for power. Likely will kidnap the Formidable Five into a shadow dimension, where either:
+The Tiffany Bleachers will fight and defeat him
+The Tiffany Bleachers will also get kidnapped and they'll have to find a way out together.
