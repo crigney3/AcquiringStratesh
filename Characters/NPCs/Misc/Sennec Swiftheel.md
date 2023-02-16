@@ -1,0 +1,1 @@
+Proprietor of [[Sennec's House of Spooks and Scares]]. Halfling with a ringmaster's outfit and a well-groomed mustache.
