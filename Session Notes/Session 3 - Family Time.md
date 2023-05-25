@@ -1,5 +1,5 @@
-Next Session: [[Session 2 - A Housewarming P-arrrrr-ty]]
-Previous Session: [[Session 4 - Mission Ookpossible]]
+Next Session: [[Session 4 - Mission Ookpossible]]
+Previous Session: [[Session 2 - A Housewarming P-arrrrr-ty]]
 
 -   Session opens with “Ook” the orangutan knocking on the party’s “door” (which they still don’t have.) After a lengthy game of charades based on Ook’s drawing skills, the party figures out that he wants them to rescue his mother, who is caged in the private gardens of the Duchess Malentia Splatt. He offers a bag with about 50 gp, and an unidentified, but quite large, ruby.
     

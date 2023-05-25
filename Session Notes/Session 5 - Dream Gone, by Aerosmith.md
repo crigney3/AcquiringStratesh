@@ -1,5 +1,5 @@
-Next Session: [[Session 4 - Mission Ookpossible]]
-Previous Session: [[Session 6 - Mining Away (From the Eldritch Abomination)]]
+Next Session: [[Session 6 - Mining Away (From the Eldritch Abomination)]]
+Previous Session: [[Session 4 - Mission Ookpossible]]
 
 -   After spending a week improving the HQ and various other activities, there’s an earthquake! Alton has a weird dream and ends up helping people in the pits rebuild their houses.
     

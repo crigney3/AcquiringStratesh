@@ -1,11 +1,12 @@
-
-Is a rebellious teen bard out to break away from the lame life of her parents ([[Kolvar & Mylaela Sylvaranth]])
+Is a rebellious "teen" bard out to break away from the lame life of her parents ([[Kolvar & Mylaela Sylvaranth]])
 
 Has ugly lime green hair, it’s magic and won’t go away
 Hair literally looks like a high-visibility jacket
 
 Parents both work for Acq, should work up some basic sheets
 They go “adventuring” in the lamest sense, and work in HR/accounting
+
+Most of the conflict with her parents comes from traditionalism about Elf age. Elves, like humans, have fully developed brains and bodies by the time they're 18, but since elves live for a very long time, traditional elven culture dictates that elves are teens until they're about 50. Both Alixya's parents subscribe to that, and treat her like a teen, including not letting her move out of her childhood room in the basement. Alixya, on the other hand, wants to be treated as the adult she is, and at the very least given some independence.
 
 Ally is pastor of church of Selune, very small temple in town
 Parents don’t know that Alixya skips “Sunday School” at church of Corelle (god of elves) to hang out at Selune’s temple

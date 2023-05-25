@@ -1,5 +1,5 @@
-Next Session: [[Session 3 - Family Time]]
-Previous Session: [[Session 5 - Dream Gone, by Aerosmith]]
+Next Session: [[Session 5 - Dream Gone, by Aerosmith]]
+Previous Session: [[Session 3 - Family Time]]
 
 -   Session opens with everyone reconvening at HQ - I’ll allow short side tasks if they want first. Then the task is prepping for Ook’s mission - this will be mostly improv as they decide different ways of getting more info.
     

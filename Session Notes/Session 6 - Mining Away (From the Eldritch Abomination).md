@@ -1,5 +1,5 @@
-Next Session: [[Session 5 - Dream Gone, by Aerosmith]]
-Previous Session: [[Session 7 - Holy Dynamite, Batman]]
+Next Session: [[Session 7 - Holy Dynamite, Batman]]
+Previous Session: [[Session 5 - Dream Gone, by Aerosmith]]
 
 -   The party starts off by entering the pit, where they will encounter:
     
