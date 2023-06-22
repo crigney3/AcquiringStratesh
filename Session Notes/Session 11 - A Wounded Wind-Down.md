@@ -18,3 +18,4 @@ They put money into the safe!
 The Proprietor is a sleepless who decided to just become a caffeine freak to cope
 Can Laura tell what a pancake is without any senses?
 Alyxia's parents have put a tracker on her flip stone which is why they aren't super worried about her
+Improv'd two bounty hunters hunting Adelynn for her past - man with dark hair and scars, woman with "too much hair" (maybe some medusa style shit? Like she's a gorgon)

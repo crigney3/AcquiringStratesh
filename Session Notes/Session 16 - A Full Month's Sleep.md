@@ -16,3 +16,14 @@ If this all wraps up quite quickly, then I'm happy to have the timeskip occur du
 
 
 # Unplanned Stuff
+Nardo is reappearing in Malentia Splatt's manor
+The mayor's name is Jerome Marshall
+Nardo's plans - Going to plant documents in the bedroom that insinuate that Malentia Splatt is going to assassinate the mayor. These documents will include Gorgin Pridecaller as an accomplice. The docs also include her intention to kill the leaders of E.L.F.
+Nardo has slipped the docs into her desk drawer
+And gotten out just fine
+And is now spreading rumors 
+Big Jubs is a guard intern now
+"I love lying to your mom"
+They're trying to buy a cow
+Hahim offered to cure the pirates
+Laura said they could move her and her husband's body onto the ship
