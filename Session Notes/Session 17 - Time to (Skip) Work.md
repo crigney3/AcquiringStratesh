@@ -12,6 +12,11 @@ Maybe run a scene of the two hanging out and doing something? Not sure
 The amulet was her grandfathers - Elashor Sylvaranth - and is directly tied both to him and Selune. He was a champion of Selune, and could use this amulet as an arcane focus to channel Selune's divinity (he was a cleric, and an adventurer.) The amulet itself has power based on the user's connection to Selune. What that power would be is a mystery to Alixya and the identifier, as it hasn't been unlocked yet.
 
 ### Nardo
+**Boosting ELF and Trying to Take down Malentia Splatt**
+From discord - Since then, I have been building support for the movement, spreading word of the atrocities plaguing the Elves and the overworked class of all folk in Stratesh. Better forming and focusing the ideology of the ELF movement on class struggle and pointing to the gluttonous oligarchs of our society as the leading cause of our shared suffering. I’ve enlisted those who believe in me and my message to spread that message further.
+Also building up fierce frustration in our movement for the false imprisonment of ELF leadership who have yet to see fair trial.
+I’ve had forged and distributed dozens of pins as a symbol of solidarity and sign of faith for those who believe in what we stand for. I’ve dispersed them among those who stand with us and tell them this symbol will unite our people. Also popularizing the phrase: “Their weakness glimmers in our light”
+Give him some bonus points towards his god
 
 ### Adelynn
 **Market the Tiffany Bleachers**
@@ -36,3 +41,11 @@ If they actually reach Tohmond this session, improv the city as very modern (as 
 
 
 # Unplanned Stuff
+Racism is fiiiiiiiiiiiiiiiiiiine
+Outfits:
+Alton - Sphinx inspired headdress, wings, and lion mask
+Nardo - Purple suit, purple top hat, 4 live doves
+Alyxia - Demilich inspired outfit - black dress, skull mask, skull and green gem accessories (goes with the green hair). High heeled combat boots
+Adelynn - Giant owl, feathers attached to a pantsuit. Bird masquerade mask, feathers in hair
+"Breathing in is for cowards"
+Laura and her husband's body has been dug up by "John", emo gravedigger
