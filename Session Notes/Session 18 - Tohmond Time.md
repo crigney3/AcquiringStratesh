@@ -9,7 +9,7 @@ Demilich theme - green crystal eyed skull mask, matches green hair. Otherwise go
 Golden Sphinx theme - lots of gold, lion mask, big fake wings, otherwise mostly normal armor
 
 ### Nardo
-
+Plague doc outfit, otherwise glittery purple suit and live doves
 
 ### Adelynn
 Giant Owl theme - feathers everywhere, owl mask
@@ -24,15 +24,28 @@ If Alton accepts, he'll be given a secret flip-stone, which can only communicate
 
 ### Adventurer Names
 Maybe these won't come up a ton because of the masquerade
-Ljoshoggr
+Ljoshoggr - Antifa druid in Imaravae's party
 Vikras
 Bulekai
-Ebazad
+Ebazad - runs the crystal manufactory
 Talon & Sparrow (the bounty hunters)
 Drake
 Tanroth
-Imaravae
+Imaravae - Horse Archer (centaur) from Qajaar
 "Peacebringer" (tiny gnome with a huuuuge axe)
 Wabnat
 
 # Unplanned Stuff
+They're a business family now
+Adelynn is giving everyone business cards
+Alton is announcing himself as Satis's chosen
+"For all I know I coulda been talking to Jim Darkmagic"
+Jim claims Zeta is gonna be "rolled out" to the people
+Alton vs. Nardo
+Alyxia vs. Gregory Skullcrusher (fighting for Tiffany Bleach)
+Talon vs. Adelynn
+Very low chance of Nardo's minor illusion convincing the adjudicator that Tiffany is fighting Gregory
+Remember that Nardo signed his name a bunch on the legal repercussions
+Tiffany is an assassin rogue
+There's a goblin alchemist selling them potions, and he gave people an anti-gravity potion which made them slide up the columns to the ceilings 
+Alton might ask Jim to fight in Alyxia's place

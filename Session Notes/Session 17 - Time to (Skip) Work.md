@@ -49,3 +49,5 @@ Alyxia - Demilich inspired outfit - black dress, skull mask, skull and green gem
 Adelynn - Giant owl, feathers attached to a pantsuit. Bird masquerade mask, feathers in hair
 "Breathing in is for cowards"
 Laura and her husband's body has been dug up by "John", emo gravedigger
+Glazmo the fire wizard, kills everybody with fire, the Arby's of arsonists
+The town crier, bought and paid by Adelynn, spouts lies and destruction
