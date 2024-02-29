@@ -10,3 +10,8 @@ Can also continue to improv the rest of the company party, crazier shit happenin
 
 
 # Unplanned Stuff
+holy shit Alyxia won her fight
+got the players to draw the maps as a fun idea, they of course drew a penis, vagina, and butthole
+Alton won in Alton vs. Nardo, Nardo got mauled by sharks
+Adelynn lost due to some very unlucky rolls, even though she nearly had him on the saving throws for falling into the p i t
+Can't forget that a giant clit was a fight mechanic lmao
