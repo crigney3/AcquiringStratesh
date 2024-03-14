@@ -19,3 +19,11 @@ So what to do?
 - Improv stuff and player ideas
 
 # Unplanned Stuff
+I added a whirlpool which has crazy stuff at the bottom
+Elk in a canoe, heading for the whirlpool (didn't happen but very funny)
+They bought a canoe and a table
+Tela'Maron is a slow tour guide
+Evan cameo'd as a Sand Gorilla, god of sand gorillas
+Tela'Maron is walking around the world to prove a point
+Several mummies blew up from screaming
+Makara is interested in the whirlpool so they're going to talk to Makara maybe
