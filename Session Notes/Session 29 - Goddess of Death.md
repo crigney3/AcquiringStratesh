@@ -16,3 +16,13 @@ If they start heading to the crystal too quickly (it should be next session so I
 
 
 # Unplanned Stuff
+Post-elk: "let's do it again"
+Wow the whole "let the players invent the plot" works great, Makara has bee sending zombies out behind the backs of the enforcers and Khaldun
+Khaldun has a big portal out (the only one) in the middle of his pyramid
+There's also a portal next to the crystal, but there's an anti god field around there
+The crystal contains the last pharoah
+Alyxia considers gutting Nardo's birds to get their vocal chords because she thinks Makara might be lonely. Nardo considers gutting Alyxia
+Everyone but Nardo knows about the mission
+Meghan's goblin came back, tried to kill Alton, Alton killed her, Makara showed up to claim the soul
+Alyxia got a bond for ironstand's mine, 10% ownership
+gave Adelynn a gold ring that may have magic  While wearing this ring, you can cast the [jump](https://www.5esrd.com/database/spell/jump) spell from it as a [bonus action](https://www.5esrd.com/gamemastering/combat/?uniqparam=OTVmZjAyMjA1Y2I2MzdjMjI5ZDZjZDRiYzY5NzNlYzM/#Bonus_Actions) at will, but can target only yourself when you do so.
