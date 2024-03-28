@@ -5,6 +5,15 @@ Need to move the snake statue to the right place, then each deposit a flame in t
 
 ### Mid Floor
 very dark in here. 10 intact sarcophagi - 4 contain mummies (no mummy rot), activating one activates all (2, 7, 9, 10). 1 contains the exit to the next floor (4), 1 contains loot (8, a gem that allows casting speak with dead twice per day.) 4 more are traps requiring dex saves, on save take 2d8 damage and on fail take 5d8 (1, 3, 5, 6).
+initiative:
+Mummy 1 - 17
+Alton - 16
+Mummy 2 - 16
+Alyxia - 10
+Mummy 3 - 7
+Adelynn - 6
+Mummy 4
+Nardo - 1
 
 ### Bottom Floor
 Traps and checkpoints! Any party member failing to get through a trap hallway teleports everyone back to the last "sun" checkpoint.
@@ -24,3 +33,8 @@ Traps and checkpoints! Any party member failing to get through a trap hallway te
 
 
 # Unplanned Stuff
+Adelynn has a utility belt of human ribs. does this help? who knows
+Jimmy burnt one of the statues so that's gotta be symmetrical too
+they destroyed the mummies but set off every trap
+Jimmy got the amulet
+They failed the fisrt spike pit cause Alton climbed around and fell in
