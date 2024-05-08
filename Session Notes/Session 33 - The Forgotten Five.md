@@ -8,3 +8,6 @@ Once that's set up, Urag gets a text from a Dran Enterprises executive, stating 
 Once they go into Bask, they'll be able to see Makara consolidating power, although they'll likely land out in the wastes instead of near the god of passage. It'll take some time to get to the city, and some more to figure out how to get to the pyramid, although the message from Dran Enterprises will inform them of that. Maybe they'll save the party, maybe they'll destroy them and this is the new party - who knows! Maybe some of both! Chaos can continue to ensue if the crystal is entirely broken, placing Bask back in Redwatch, or the parties can negotiate to fail one mission or the other.
 
 # Unplanned Stuff
+Session went great, the five didn't really have to get into combat or anything
+it did get confusing at the end when people had multiple characters to control
+The final plan - ransom Makara to raise Adelynn from the dead, Nardo and Alton taking care of the talking while Alyxia chills by the crystal, ready to power it up if necessary. Ashryn is helping them get around with the travel medallion, and will be rerunning the dungeon to get back to Alyxia so they can leave afterwards.
