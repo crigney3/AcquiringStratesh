@@ -5,3 +5,9 @@ Of course, convincing Makara won't be as easy as threatening her. Once she's sca
 
 
 # Unplanned Stuff
+Cake that says "Congrats on your askention" - 13
+Another one that says "can you bring our friend ack we miss her" - 15
+Third cake that says "Does a death god know what it's like to die" - 17
+They all have skulls, two smiley and one frown skull
+Marvin Conoxide
+30
