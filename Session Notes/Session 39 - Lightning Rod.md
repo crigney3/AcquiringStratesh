@@ -8,3 +8,11 @@ As a side plot, Acquisitions may start to note in their texts to Alton that they
 
 
 # Unplanned Stuff
+Cecilia Norn
+Severance Garthick - also known as Seven-Fence Garlic
+The water in the wells is always shifting and there's weird Control-like square tunnel symbols in the walls
+Nardo burnded down the mayor's house and half the market
+Adelynn detected Aberrations within six miles
+Verx got got
+They investigated the cathedral
+The goose saw Severance vanish and then Adelynn felt Verx die 
