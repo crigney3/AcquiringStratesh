@@ -8,3 +8,9 @@ Time exploring Shruburbia
 Maybe another thing pushing the "Nardo can't be seen by project Satise" stuff? Like a text on the secret flip-stone asking Alton to confirm that they only have 3 party members.
 
 # Unplanned Stuff
+You can hit my dad, you can't hit my mom - Adelynn
+There was a horse that got stabilized
+Verx got stabilized to Vern
+Trapdoor had a spell that charms you to leave
+They're fighting khentekthai and maybe Severance? But severance might join them
+make fight wild magic focused
