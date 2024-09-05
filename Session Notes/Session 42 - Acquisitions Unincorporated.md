@@ -9,3 +9,8 @@ Rest of the session will be mostly improv based on player decisions.
 
 
 # Unplanned Stuff
+Truly insane session, Omzal (no longer Nardo) dropped a burning clocktower on the crypt with the party inside it
+The party got to talk to the AI behind project Satise, got some answers about how to perfectly keep their franchise intact and hacked acquisitions
+Tiffany is pissed and gonna kill them
+They're friends with the mayor now and helped her vote out Garthick, then imprison him
+Adelynn's dad has gotten worse
