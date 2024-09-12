@@ -21,3 +21,12 @@ Also, depending on how this interrogation takes, they might have to deal with th
 End the session with them returning home to Redwatch, and the cliffhanger of a lifetime - it's tax season again.
 
 # Unplanned Stuff
+Do not leave or try to leave the zone of truth, or use any tools you have on you. Answer any questions thoroughly and without omission.
+Selune has become a small god and moved into Alyxia's head
+Adelynn has Tiffany's mended skull
+Tiffany is dead
+Tiffany got asked a lot about her personal life which pissed her off
+Tiffany was formerly (and kinad still is) in love with Mylaela Sylvaranth
+This session was deeply fucked up. Like actually tho this game needs an x card lmao
+Enchantment magic is deeply fucked up
+But also I checked in and the players were good with the session being realistically fucked up
