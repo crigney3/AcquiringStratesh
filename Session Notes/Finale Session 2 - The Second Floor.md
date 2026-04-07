@@ -17,3 +17,12 @@ I don't expect each of these to take a full session.
 
 
 # Unplanned Stuff
+"Employee of the month - the sentient elevator"
+Daniel is in the rogues
+Omzal exploded the liquid nitrogen pipe and started suffocating himself
+The gnolls are pissed at him
+One of the maintenance gnolls is trying to fix the pipes
+The cow slurry pipes broke under the pressure of 17 cows per minute
+They emerged onto the third floor into the sorcerer/wizard library, where some magic almost hit them
+Omzal emerged into the third floor bathroom and is being attacked by a paladin
+They have the following badges: Rogue, Fighter, Barbarian, Druid, Bard, Warlock, Cleric
