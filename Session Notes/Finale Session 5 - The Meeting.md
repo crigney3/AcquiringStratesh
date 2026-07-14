@@ -15,7 +15,7 @@ The boardroom will expand into a larger, fractured space over a swirling whirlpo
 
 Other characters/factions that may interfere in various helpful/harmful ways during the fight:
 Sam, invoking Baphomet
-Farp and the Tarps
+~~Farp and the Tarps~~
 The Formidable Five
 The basement devils
 The paladins that were chasing them
@@ -28,7 +28,22 @@ The maintenance gnolls
 Ook
 
 Every two turns, roll a lair action d20:
-20 - 15: helpful intrusion. Roll a d6 on the likely interferences above, with 2-6 being the characters listed, and one triggering a reroll on the unlikely list. The interference should be helpful. Each time this is rolled, the DC increases; i.e. 16-20 after the first, and that number is added to the collapsing floor trigger.
-10-14: Nothing. Each time this is rolled, the DC shrinks; i.e. 11-15 after the first, and that number is added to the collapsing floor trigger. The top of this DC matches the helpful intrusion DC, such that if a 17 was rolled, this would have a DC of 11-15.
-6-10: Floor collapse! Remove 2 tiles of the floor. Certain objects are floating and will always provide "safe" ground. Unless there are no valid tiles, the tile will never be one directly under a character. This DC slot is constantly growing. Track the numbers here when possible.
-1-5: unhelpful intrusion. Same as helpful intrusion, but it either hurts just the party of hurts everyone in the fight. If the character rolled is generally an ally, try to make it an effect that hits everyone (i.e. Baphomet appearing and casting fireball on a group). DC shrinks similarly.
+20 - 17: helpful intrusion. Roll a d6 on the likely interferences above, with 2-6 being the characters listed, and one triggering a reroll on the unlikely list. The interference should be helpful. Each time this is rolled, the DC increases; i.e. 16-20 after the first, and that number is added to the collapsing floor trigger.
+15-16: Nothing. Each time this is rolled, the DC shrinks; i.e. 11-15 after the first, and that number is added to the collapsing floor trigger. The top of this DC matches the helpful intrusion DC, such that if a 17 was rolled, this would have a DC of 11-15.
+4-14: Floor collapse! Remove 2 tiles of the floor. Certain objects are floating and will always provide "safe" ground. Unless there are no valid tiles, the tile will never be one directly under a character. This DC slot is constantly growing. Track the numbers here when possible.
+1-3: unhelpful intrusion. Same as helpful intrusion, but it either hurts just the party of hurts everyone in the fight. If the character rolled is generally an ally, try to make it an effect that hits everyone (i.e. Baphomet appearing and casting fireball on a group). DC shrinks similarly.
+
+# Unplanned Stuff
+### Initiative order
+Alton - 23
+Adelynn - 21
+Alyxia - 17
+Filbo - 15 - 36
+Omzal - 14
+Summon - 13
+Jim - 13 - 25
+Cuza - 5 - 159
+
+All the executives down except Filbo, Cuza, and Jim, Phimde failed to shut down the UEM overtake.
+Find the name of the head of the legal guild Alton founded
+The floor now collapses at 10 per trigger, probably make a macro at this point
