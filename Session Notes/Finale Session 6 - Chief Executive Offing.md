@@ -4,5 +4,11 @@ Jim Darkmagic has the (modified, improvised) stats based on [a lich](https://www
 Because we've been on such a long break, same with the session before this, start this session with no recap and have the characters be feeling off. This is because Jim is using the arena they're in to accelerate time around them, so months of real-world time has passed (which is also why the floor is falling apart faster.) Have players make history checks to remember what's going on and what they could potentially do to get help etc. This time bubble is also part of Jim's plan to entrap all the remaining gods/entities in the bubble so he can feed on the productivity of the world.
 There are several solutions here (and don't let the players sit around for too long, make it clear once they figure out the time thing that the longer they stay here, the more the world crumbles into chaos/dystopia), and for the most part I'm happy to just run with a good suggestion. But two more default solutions are successfully baiting Jim into an actual fight (which may be quite a tough fight) or invoking That-Which-Endures, probably with the symbol or like directly summoning Truth Solidflower.
 As usual, improv is king. Jim will bring back some of the board if he's losing too quickly, and I'll encourage summoning That-Which-Endures if he's beating them up.
+Oh yeah and he's gonna start off as a sorcerer so they can beat him up and then be confused at winning
 
 # Unplanned Stuff
+14 damage to fake jim, then they disemboweled him
+120 damage to jim
+WE HAVE TO BLOW UP (PART OF) THE MOON
+Acquisitions finished! 2022-2026!
+See daria's notebook for the epilogue
